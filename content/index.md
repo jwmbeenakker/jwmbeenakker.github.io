@@ -1,6 +1,6 @@
 ---
 title: 'Fraternity Retreat 2025 English stream'
-date: 2023-10-24
+date: 2025-10-25
 type: landing
 
 design:
