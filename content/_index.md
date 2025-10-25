@@ -11,10 +11,6 @@ design:
 
 sections:
   - block: markdown
-    design:
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '0', '0', '0']
     content:
       text: >-
         Below you can find the links for the Fraternity streams with English translation.
