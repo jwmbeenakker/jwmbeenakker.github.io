@@ -17,7 +17,12 @@ sections:
         Below you can find the links for the Fraternity streams with English translation. <br>
         - [Saturday afternoon](https://youtube.com/live/kzubS2y-F74?feature=share) (it took a bit to get the stream to work, so we miss the first few minutes. the volume is very low)<br>
         - Saterday evening <br>
-        The [French streams](https://emmanuel.info/retraite-de-fraternite-2025) can be found [here](https://emmanuel.info/retraite-de-fraternite-2025), together with the program of the retreat
+  - block: markdown
+    content:
+      title: Notes
+      text: "
+        - The [French streams](https://emmanuel.info/retraite-de-fraternite-2025) can be found [here](https://emmanuel.info/retraite-de-fraternite-2025), together with the program of the retreat
+        - The internet connection in Paray is suboptimal. The translation is also recorded locally and will be made available.
 
 
 ---
