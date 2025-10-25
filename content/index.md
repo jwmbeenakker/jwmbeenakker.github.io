@@ -11,6 +11,10 @@ design:
 
 sections:
   - block: markdown
+    design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0', '0', '0', '0']
     content:
       title: Live streams
       text: >-
@@ -18,8 +22,12 @@ sections:
 
         - [Saturday afternoon](https://youtube.com/live/kzubS2y-F74?feature=share) <br>(it took a bit to get the stream to work, so we miss the first few minutes. the volume is very low)
 
-        - Saterday evening
+        - Saterday evening   
   - block: markdown
+    design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0', '0', '0', '0']
     content:
       title: Notes
       text: "
