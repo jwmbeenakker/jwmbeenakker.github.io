@@ -20,9 +20,10 @@ sections:
       text: >-
         Below you can find the links for the Fraternity streams with English translation:
 
+        - [Saturday evening](https://youtube.com/live/vXIOl7SC2PI?feature=share) (starts at 20:45)
+        
         - [Saturday afternoon](https://youtube.com/live/kzubS2y-F74?feature=share) <br>(it took a bit to get the stream to work, so we miss the first few minutes. the volume is very low, but of good quality)
-
-        - Saturday evening   
+  
   - block: markdown
     design:
       spacing:
