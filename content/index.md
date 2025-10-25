@@ -14,15 +14,15 @@ sections:
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '0', '0', '0']
+        padding: ['5', '0', '0', '0']
     content:
       title: Live streams
       text: >-
         Below you can find the links for the Fraternity streams with English translation:
 
-        - [Saturday afternoon](https://youtube.com/live/kzubS2y-F74?feature=share) <br>(it took a bit to get the stream to work, so we miss the first few minutes. the volume is very low)
+        - [Saturday afternoon](https://youtube.com/live/kzubS2y-F74?feature=share) <br>(it took a bit to get the stream to work, so we miss the first few minutes. the volume is very low, but of good quality)
 
-        - Saterday evening   
+        - Saturday evening   
   - block: markdown
     design:
       spacing:
