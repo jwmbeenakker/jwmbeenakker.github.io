@@ -12,9 +12,13 @@ design:
 sections:
   - block: markdown
     content:
+      title: Live streams
       text: >-
         Below you can find the links for the Fraternity streams with English translation.
-        blablabla
+        - [Saturday afternoon](https://youtube.com/live/kzubS2y-F74?feature=share)
+        - Saterday evening
+        
+        The [original French streams](https://emmanuel.info/retraite-de-fraternite-2025) can be found [here](https://emmanuel.info/retraite-de-fraternite-2025), together with the program of the retreat
 
 
 ---
