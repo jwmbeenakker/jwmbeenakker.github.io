@@ -20,6 +20,8 @@ sections:
       text: >-
         Below you can find the links for the Fraternity streams with English translation:
 
+        - [Sunday evening](https://youtube.com/live/ErWDkIA_vPQ?feature=share)
+        
         - [Sunday morning](https://youtube.com/live/rGnDz4skPbI?feature=share)
 
         - [Saturday evening](https://youtube.com/live/vXIOl7SC2PI?feature=share)
