@@ -20,13 +20,16 @@ sections:
       text: >-
         Below you can find the links for the Fraternity streams with English translation:
 
-        - [Sunday evening](https://youtube.com/live/ErWDkIA_vPQ?feature=share)
+        - [Monday morning](https://youtube.com/live/c8AykA9MhmI?feature=share)
+        
+        - [Sunday evening](https://youtube.com/live/ErWDkIA_vPQ?feature=share)<br>
+        due to technical issues, only part of the stream was broadcasted.
         
         - [Sunday morning](https://youtube.com/live/rGnDz4skPbI?feature=share)
 
         - [Saturday evening](https://youtube.com/live/vXIOl7SC2PI?feature=share)
         
-        - [Saturday afternoon](https://youtube.com/live/kzubS2y-F74?feature=share) <br>(it took a bit to get the stream to work, so we miss the first few minutes. the volume is very low, but of good quality)
+        - [Saturday afternoon](https://youtube.com/live/kzubS2y-F74?feature=share) <br>(it took a bit to get the stream to work, so we miss the first few minutes.)
   
   - block: markdown
     design:
@@ -37,6 +40,8 @@ sections:
       title: Notes
       text: "
         Have a good retreat!
+
+         - The volume is very low, but of good quality.
 
          - The [French streams](https://emmanuel.info/retraite-de-fraternite-2025) can be found [here](https://emmanuel.info/retraite-de-fraternite-2025), together with the [program](https://emmanuel.info/wp-content/uploads/2025/10/Plannig-retraite-fraternite-2025-2.jpg) of the retreat
 
