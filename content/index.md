@@ -20,6 +20,8 @@ sections:
       text: >-
         Below you can find the links for the Fraternity streams with English translation:
 
+        - [Monday evening](https://youtube.com/live/_l92BbwtJZQ?feature=share)
+
         - [Monday mass](https://youtube.com/live/5keFQiEt7Zk?feature=share)
         
         - [Monday morning](https://youtube.com/live/c8AykA9MhmI?feature=share)
