@@ -20,6 +20,10 @@ sections:
       text: >-
         Below you can find the links for the Fraternity streams with English translation:
         
+        #### Wednesday
+
+        - [Wednesday morning](https://youtube.com/live/zYTjMFck-Y8?feature=share)
+        
         #### Tuesday
 
         - [Tuesday evening](https://youtube.com/live/ZqtcVdrAowY?feature=share)
