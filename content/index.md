@@ -19,8 +19,8 @@ sections:
       title: Live streams
       text: >-
         Below you can find the links for the Fraternity streams with English translation:
-
-        ### Tuesday
+        
+        #### Tuesday
 
         - [Tuesday evening](https://youtube.com/live/ZqtcVdrAowY?feature=share)
         
@@ -28,8 +28,7 @@ sections:
         
         - [Tuesday morning](https://youtube.com/live/B9pzplfVwJM?feature=share)
         
-
-        ### Monday
+        #### Monday
 
         - [Monday evening](https://youtube.com/live/_l92BbwtJZQ?feature=share)
 
@@ -37,14 +36,14 @@ sections:
         
         - [Monday morning](https://youtube.com/live/c8AykA9MhmI?feature=share)
 
-        ### Sunday
+        #### Sunday
         
         - [Sunday evening](https://youtube.com/live/ErWDkIA_vPQ?feature=share)<br>
         due to technical issues, only part of the stream was broadcasted.
         
         - [Sunday morning](https://youtube.com/live/rGnDz4skPbI?feature=share)
 
-        # Saturday
+        #### Saturday
 
         - [Saturday evening](https://youtube.com/live/vXIOl7SC2PI?feature=share)
         
